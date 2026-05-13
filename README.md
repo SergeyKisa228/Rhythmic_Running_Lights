@@ -17,11 +17,17 @@ All components are powered from a single MB102 breadboard power supply (5 V ra
 # Hardware 🔧
 
 -STM32F103C8T6 (Blue Pill)
+
 -KY‑037 sound sensor (only DO used – digital output)
+
 -74HC595 8‑bit shift register
+
 -8× LEDs + 8× 220 Ω resistors
+
 -Button (PB1, pull‑up)
+
 -MB102 breadboard power supply (5 V)
+
 -Breadboard, jumper wires
 
 # Schematic ❗

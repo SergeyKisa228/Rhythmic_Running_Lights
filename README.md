@@ -3,7 +3,7 @@ Compact sound‑reactive LED controller based on STM32F103C8T6 and KY‑037 micr
 
 <img width="1280" height="760" alt="2" src="https://github.com/user-attachments/assets/de6f4c39-8110-42e7-ad88-a77ff74dfd45" />
 
-<img width="640" height="368" alt="26" src="https://github.com/user-attachments/assets/7daff596-d4a9-4d2f-afd1-3214830c4b30" />
+<img width="640" height="368" alt="26" src="https://github.com/user-attachments/assets/875eba0a-e18a-4186-8d09-6076f01702bd" />
 
 
 # Description :)

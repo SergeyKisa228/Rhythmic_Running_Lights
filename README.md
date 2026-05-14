@@ -1,8 +1,8 @@
 # Rhythmic_Running_Lights
 Compact sound‑reactive LED controller based on STM32F103C8T6 and KY‑037 microphone module. Two operation modes – random flash to the beat or classic running lights – switchable by a button.
 
-<img width="1007" height="1280" alt="1" src="https://github.com/user-attachments/assets/11fc8585-e242-4bcf-a94b-d393182bdc90" />
---------------------------------------------------------------------------------------------------------------------------------
+<img width="1280" height="760" alt="2" src="https://github.com/user-attachments/assets/de6f4c39-8110-42e7-ad88-a77ff74dfd45" />
+
 <img width="640" height="368" alt="26" src="https://github.com/user-attachments/assets/7daff596-d4a9-4d2f-afd1-3214830c4b30" />
 
 

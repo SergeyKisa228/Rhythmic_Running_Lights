@@ -19,6 +19,8 @@ Built‑in debouncing for both the microphone and the button ensures stable oper
 
 All components are powered from a single MB102 breadboard power supply (5 V rail).
 
+<img width="640" height="368" alt="26" src="https://github.com/user-attachments/assets/eb8506a2-2fd1-47d0-bc93-4efe498dc873" />
+
 # Hardware 🔧
 
 -STM32F103C8T6 (Blue Pill)
@@ -34,8 +36,6 @@ All components are powered from a single MB102 breadboard power supply (5 V ra
 -MB102 breadboard power supply (5 V)
 
 -Breadboard, jumper wires
-
-<img width="640" height="368" alt="26" src="https://github.com/user-attachments/assets/eb8506a2-2fd1-47d0-bc93-4efe498dc873" />
 
 # Schematic ❗
 <img width="583" height="588" alt="Scematic" src="https://github.com/user-attachments/assets/759d6976-a6bc-4045-9820-0b1908e905e1" />

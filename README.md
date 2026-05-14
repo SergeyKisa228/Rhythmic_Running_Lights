@@ -3,8 +3,6 @@ Compact sound‑reactive LED controller based on STM32F103C8T6 and KY‑037 micr
 
 <img width="1280" height="760" alt="2" src="https://github.com/user-attachments/assets/de6f4c39-8110-42e7-ad88-a77ff74dfd45" />
 
-<img width="640" height="368" alt="26" src="https://github.com/user-attachments/assets/eb8506a2-2fd1-47d0-bc93-4efe498dc873" />
-
 # Description :)
 
 The device listens to ambient sound (music, claps, beats) via the digital output of the KY‑037 sensor.
@@ -36,6 +34,8 @@ All components are powered from a single MB102 breadboard power supply (5 V ra
 -MB102 breadboard power supply (5 V)
 
 -Breadboard, jumper wires
+
+<img width="640" height="368" alt="26" src="https://github.com/user-attachments/assets/eb8506a2-2fd1-47d0-bc93-4efe498dc873" />
 
 # Schematic ❗
 <img width="583" height="588" alt="Scematic" src="https://github.com/user-attachments/assets/759d6976-a6bc-4045-9820-0b1908e905e1" />

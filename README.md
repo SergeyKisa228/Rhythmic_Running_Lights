@@ -62,7 +62,7 @@ Short press toggles state between 0 and 1, calls flash_led(state+1) and sends 0x
 
 Error resilience – the interrupt routine filters glitches; main loop never blocks
 
-<img width="480" height="346" alt="4" src="https://github.com/user-attachments/assets/493d0283-5cc8-46ac-952c-55a42441d6ec" />
+https://github.com/user-attachments/assets/6cd7e8c8-903c-4c3d-8483-3a86d7764738
 
 ## Author
 👾 **SergeyKisa228** 👾
